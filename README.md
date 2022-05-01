@@ -1,2 +1,3 @@
-# twitter-term-1
-第一期课程专用 Repo
+# twittermock
+a twitter mock app for practicing backend skills
+
